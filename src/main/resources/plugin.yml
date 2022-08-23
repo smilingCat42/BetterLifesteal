@@ -1,0 +1,9 @@
+name: Better Lifesteal
+version: '${project.version}'
+main: net.lazycat.betterlifesteal.Main
+api-version: 1.19
+prefix: LifeSteal
+load: STARTUP
+authors: [ LazyCat, Parrot ]
+description: A much needed fixed version
+website: https://discorg.gg/lifesteal
